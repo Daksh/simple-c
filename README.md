@@ -17,7 +17,9 @@ Go to CodeChef and create a profile if not already and submit the following ques
 
 1. https://www.codechef.com/problems/LUCKFOUR  CakeWalk
 
-2. 
+2. https://www.codechef.com/problems/SPALNUM
+
+3. 
 
 ## Links
 
