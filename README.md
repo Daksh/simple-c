@@ -19,7 +19,9 @@ Go to CodeChef and create a profile if not already and submit the following ques
 
 2. https://www.codechef.com/problems/SPALNUM
 
-3. 
+3. https://www.codechef.com/NOV17/problems/VILTRIBE
+
+4. https://www.codechef.com/NOV17/problems/CLRL
 
 ## Links
 
@@ -43,3 +45,9 @@ You do not need to worry about the order of input output in these problems and t
 that can be used to redirect just the input (from file named "inputfile") rather than the default input, that is keyboard
 
 NOTE: You do not have to add extra statements like "Input Radius: "
+
+# Ranges of int
+
+https://discuss.codechef.com/questions/47138/what-is-the-range-of-int
+
+Int ranges from –2,147,483,648 to 2,147,483,647.
